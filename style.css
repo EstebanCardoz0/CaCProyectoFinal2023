@@ -1,0 +1,29 @@
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: black; /* Cambia el fondo a negro */
+    color: white; /* Cambia el color del texto a blanco */
+} 
+
+.search-container {
+    max-width: 300px; /* Ajusta el ancho máximo según tus preferencias */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+.footer {
+    padding: 20px 0
+}
+
+.footer-title {
+    margin: 10px 0 5px
+}
+
+.footer-payship-img {
+    margin-right: 10px; 
+    padding: 7px; 
+    display: inline-block;
+}
+
